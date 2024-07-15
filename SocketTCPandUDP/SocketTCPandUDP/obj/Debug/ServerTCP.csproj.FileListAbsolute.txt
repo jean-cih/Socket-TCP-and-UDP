@@ -1,0 +1,7 @@
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\bin\Debug\SocketTCPandUDP.exe.config
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\bin\Debug\SocketTCPandUDP.exe
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\bin\Debug\SocketTCPandUDP.pdb
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\obj\Debug\ServerTCP.csproj.AssemblyReference.cache
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\obj\Debug\SocketTCPandUDP.exe
+D:\LearningCSharp\SocketTCPandUDP\SocketTCPandUDP\obj\Debug\SocketTCPandUDP.pdb

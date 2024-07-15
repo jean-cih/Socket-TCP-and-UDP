@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB8CBB0-071F-48A5-BDCB-47CC859705A1}|SocketTCPandUDP\\ServerTCP.csproj|d:\\development\\c#\\consoleprojects\\sockettcpandudp\\sockettcpandudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB8CBB0-071F-48A5-BDCB-47CC859705A1}|SocketTCPandUDP\\ServerTCP.csproj|solutionrelative:sockettcpandudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1808675-D37F-4A5C-A9A2-AB5C04BAED9D}|ClientTCP\\ClientTCP.csproj|D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\clienttcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1808675-D37F-4A5C-A9A2-AB5C04BAED9D}|ClientTCP\\ClientTCP.csproj|solutionrelative:clienttcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\SocketTCPandUDP\\Program.cs",
+              "RelativeDocumentMoniker": "SocketTCPandUDP\\Program.cs",
+              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\SocketTCPandUDP\\Program.cs",
+              "RelativeToolTip": "SocketTCPandUDP\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:10:02.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\ClientTCP\\Program.cs",
+              "RelativeDocumentMoniker": "ClientTCP\\Program.cs",
+              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\SocketTCPandUDP\\ClientTCP\\Program.cs",
+              "RelativeToolTip": "ClientTCP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:10:03.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

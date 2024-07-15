@@ -1,0 +1,7 @@
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\bin\Debug\ClientTCP.exe.config
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\bin\Debug\ClientTCP.exe
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\bin\Debug\ClientTCP.pdb
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\obj\Debug\ClientTCP.exe
+D:\LearningCSharp\SocketTCPandUDP\ClientTCP\obj\Debug\ClientTCP.pdb
